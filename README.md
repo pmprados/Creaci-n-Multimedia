@@ -32,7 +32,7 @@ Univesidad de Granada
 * Twitter 
 * ... 
 
-![[https://ih1.redbubble.net/image.987574210.6443/flat,750x,075,f-pad,750x1000,f8f8f8.jpg]]
+![Shrek][[https://ih1.redbubble.net/image.987574210.6443/flat,750x,075,f-pad,750x1000,f8f8f8.jpg]]
 
 --- 
 
