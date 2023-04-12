@@ -9,11 +9,11 @@ Univesidad de Granada
 
 ----
 
-**Titulo** : _______
+**Titulo** : 6 de Bastos
 
-**Autor(es)** ______________
+**Autor(es)** Pablo Medina
 
-**Resumen** : _________
+**Resumen** : Una bruja que se dedica a maldecir gente.
 
 **logotipo** :  ________
 
@@ -23,7 +23,7 @@ Univesidad de Granada
 
 **Licencia**    (usar una creative commons: revisar en https://creativecommons.org/licenses/?lang=es_ES) 
 
-**Fecha** : 2020
+**Fecha** : 2023
 
 **Medios** (donde se tiene presencia): 
 
