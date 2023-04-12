@@ -11,7 +11,7 @@ Univesidad de Granada
 
 **Titulo** : 6 de Bastos
 
-**Autor(es)** Pablo Medina
+**Autor(es)** 👺 Pablo Medina 👺
 
 **Resumen** : Una bruja que se dedica a maldecir gente.
 
