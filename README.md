@@ -11,7 +11,11 @@ Univesidad de Granada
 
 **Titulo** : 6 de Bastos
 
-**Autor(es)** 👺 Pablo Medina 👺
+**Autor(es)** 
+👑 Andrea Amaya
+🪙 Rubén Casamitjana
+🗡️ Pablo Medina 
+🐎 Fátima Reyes
 
 **Resumen** : Una bruja que se dedica a maldecir gente.
 
