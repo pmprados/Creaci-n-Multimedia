@@ -23,11 +23,17 @@ Univesidad de Granada
 en el futuro y le dice que necesita encontrar a Miriam para ayudarlo a encontrarlo. Miriam lo lleva al bosque para encontrar una hierba especial, que lo conducirá a 
 escapar de las garras de la bruja antes de que sea demasiado tarde
 
-**Logotipo** :  https://www.canva.com/design/DAFg8K1Bq_Q/jTah5Bqyz8DAjv0gppfu2Q/edit?analyticsCorrelationId=dbb213fb-74a6-4a40-be66-17ac2e0ab43b
+**Logotipo** : 
 
-**Slogan**: https://www.canva.com/design/DAFg8OMXQCM/Z9z2RMyBvZkRnY0RFC6dvw/edit?analyticsCorrelationId=b6b96e3e-bda7-4674-b78a-fcefc3c77a96
+![Diseño sin título](https://user-images.githubusercontent.com/79904490/234327519-0c9da374-c6e1-454a-86ac-f2251c7c1b6c.png)
 
-**Hashtag**  ___
+
+**Banner**: 
+
+![Black and Gold Modern Occult Halloween Facebook Cover Greetings](https://user-images.githubusercontent.com/79904490/234327623-8a9a5b2d-457d-458c-8b79-06095e2a86bd.png)
+
+
+**Hashtag** #6deBastos
 
 **Licencia**    (usar una creative commons: revisar en https://creativecommons.org/licenses/?lang=es_ES) 
 
@@ -52,6 +58,8 @@ Metodología de desarrollo: Diseño de contenidos digitales mediante estrategia 
 ### Etapa 1: Ideación de proyecto 
 
 Actividades realizadas mediante Trello https://trello.com/b/3YjvDccp/proyectomultimedia
+
+Actividades realizadas mediante Milanote https://app.milanote.com/1PF01C1pHNUUbc/6-6-de-bastos?p=fVCzKgTw2WW 
 
 **Investigación de campo**   Desk research propuestas inspiradoras para el proyecto) 
 
