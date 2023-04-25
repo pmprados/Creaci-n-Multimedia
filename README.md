@@ -42,9 +42,6 @@ Univesidad de Granada
 
 🟥 Protopie: https://cloud.protopie.io/p/18dd3cd350c3a8dc748cb12f?ui=true&scaleToFit=true&enableHotspotHints=true&cursorType=touch&mockup=true&bgColor=%23F5F5F5&playSpeed=1&playerAppPopup=true 
 
-🟪 Cómic: 
-
-
 --- 
 
 ### Metodología
@@ -104,7 +101,7 @@ Por último, el cómic supone una extensión del universo de 6 de bastos y que c
 
 Para la imagen visual y en sí el diseño, hemos utilizado Canva. En el caso del diseño de interfaz 
 
-* redes sociales 
+* Redes sociales 
 
 Tenemos pensado añadir redes sociales tales como Instagram o Twitter. En la primera, colgaríamos información del proyecto tales como novedades, curiosidades, el proceso creativo detrás del proyecto e incluso pequeños minijuegos ubicados dentro de las historias de la red social para mantener el enganche de los usuarios. 
 
@@ -140,6 +137,8 @@ tiene cada una de las herramientas que hemos utilizado, ya que el comienzo de la
 elaboración del Protopie, por lo que hemos tenido que ir definiendo el resto de la historia según avanzaba la historia, teniendo que reorganizar el proyecto para poder 
 darle un sentido y una unidad coherente con cada formato y producto realizado.
 
+El mayor problema que hemos encontrado, ha sido al intentar crear una historia visual, en especifico, un cómic. Queríamos utilizar un tipo de recursos, pero no hemos sido capaces de conseguir centrar y ver correctamente las imágenes que queriamos utilizar, por lo que hemos tenido que dejar de lado esta parte del trabajo, ya que por mucho que cambiabamos cosas en HTML, CSS o JS. 
+
 Propuesta de mejora:
 Al no conocer en profundidad todas las herramientas y programas que hemos utilizado, como los distintos lenguajes informáticos, hemos visto un poco limitadas las 
 posibilidades de crear contenido que nos permita ampliar la historia, teniendo que tener una visión más realista de nuestras propias capacidades, dejando de lado 
@@ -148,7 +147,9 @@ aquellas ideas que se escapen de nuestras capacidades.
 Posible interés del proyecto:
 Es un poco díficil ver la viabilidad que puede tener nuestro proyecto, ya que al ser un mundo ficticio creado para este proyecto en específico, es necesario terminar 
 de darle todo el formato, contexto, coherencia y ambientación necesaria para poder tener una historia que suscite un gran interés en el público, además de poder 
-conseguir la colaboración con la que poder levantar un mayor interés en la historia. Alguna manera de realizar alguna colaboración, podría ser a través de una pequeña 
+conseguir la colaboración con la que poder levantar un mayor interés en la historia. 
+
+Alguna manera de realizar alguna colaboración, podría ser a través de una pequeña 
 interpretación de rol en vivo, en el que los participantes puedan integrarse a un mayor nivel en la historia, conociendo desde dentro la historia de los distintos 
 protagonistas, en especial, el de la Bruja. 
 
@@ -161,7 +162,6 @@ Referencias y recursos:
 
 La mayoría de recursos utilizados a lo largo de este proyecto han sido extraido de páginas de diseño como Canvas, o bancos de imágenes, como son el caso de Pexels o Pixabay. 
 
-<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Licencia de Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />Este obra está bajo una <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">licencia de Creative Commons Reconocimiento-NoComercial-CompartirIgual 4.0 Internacional</a>.
 ----
 
 **Referencias y recursos utilizados** :
