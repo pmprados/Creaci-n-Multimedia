@@ -47,7 +47,9 @@ escapar de las garras de la bruja antes de que sea demasiado tarde
 
 🟪 Cómic: 
 
-🟦 Instagram: https://www.canva.com/design/DAFhAQTxOkw/IO63of0--BefUHnVkFx1lQ/edit?analyticsCorrelationId=c7523c50-1e28-40dd-af43-952543f729a4 
+🟦 Instagram:
+
+![Feed de Instagram estilo neutro moderno colores beige blancos](https://user-images.githubusercontent.com/79904490/234328028-8cfef9a8-0d51-4e57-b8c6-85db096ff86e.png)
 
 --- 
 
