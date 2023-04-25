@@ -1,4 +1,4 @@
-## (Nombre del proyecto)  
+## 6 DE BASTOS
 
 (Plantilla para la creación de un proyecto Multimedia Interactivo)
 
@@ -38,12 +38,7 @@ Univesidad de Granada
 
 🟪 Cómic: 
 
-
-*  :octocat: (github url) 
-* Twitter 
-* ... 
-
-![Shrek] [(https://ih1.redbubble.net/image.987574210.6443/flat,750x,075,f-pad,750x1000,f8f8f8.jpg)]
+🟦 Instagram: https://www.canva.com/design/DAFhAQTxOkw/IO63of0--BefUHnVkFx1lQ/edit?analyticsCorrelationId=c7523c50-1e28-40dd-af43-952543f729a4 
 
 --- 
 
