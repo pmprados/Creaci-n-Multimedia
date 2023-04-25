@@ -130,9 +130,6 @@ Por otro lado, en el caso de Twitter, sería un buen medio para promover la inme
 
 ![Feed de Instagram estilo neutro moderno colores beige blancos (1)](https://user-images.githubusercontent.com/79904490/234354534-4d8311fc-deb2-4cbf-a7a6-3f0a8c1ed3da.png)
 
-🟢 Publicidad 
-
-
 * ...
 
 ### Etapa 3: Técnicas de evaluación utilizadas
@@ -149,7 +146,7 @@ Por otro lado, en el caso de Twitter, sería un buen medio para promover la inme
 ### Conclusiones y trabajo futuro
 
 
-* Grado de consecución del proyecto 
+Grado de consecución del proyecto 
 Problemas identificados:
 En cuanto a los problemas encontrados a la hora de realizar el proyecto, uno de los principales contratiempos que hemos tenido ha sido definir bien el uso y papel que 
 tiene cada una de las herramientas que hemos utilizado, ya que el comienzo de la historia del personaje, y del proyecto en sí, se ha realizado a través de la 
