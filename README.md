@@ -13,31 +13,24 @@ Univesidad de Granada
 
 **Autor(es)** 
 
-👑 Andrea Amaya
+* 👑 Andrea Amaya
+* 💃 Rubén Casamitjana
+* 🗡️ Pablo Medina 
+* 🔮 Fátima Reyes
 
-🪙 Rubén Casamitjana
+**Resumen** : "6 de bastos" cuenta la historia de Billy, un joven que busca un objeto perdido y decide pedir ayuda a una anciana bruja. La bruja le ofrece ayuda a cambio de un favor en el futuro y le dice que necesita encontrar a Miriam para ayudarlo a encontrarlo. Miriam lo lleva al bosque para encontrar una hierba especial, que lo conducirá a escapar de las garras de la bruja antes de que sea demasiado tarde
 
-🗡️ Pablo Medina 
+**Logotipo** :  
 
-🐎 Fátima Reyes
-
-**Resumen** : 
-
-"6 de Bastos" cuenta la historia de Billy, un joven que busca un objeto perdido y decide pedir ayuda a una anciana bruja. La bruja le ofrece ayuda a
-cambio de un favor en el futuro y le dice que necesita encontrar a Miriam para ayudarlo a encontrarlo. Miriam lo lleva al bosque para encontrar una 
-hierba especial, que lo conducirá a escapar de las garras de la bruja antes de que sea demasiado tarde
-
-**Logotipo** : 
-
-![Diseño sin título](https://user-images.githubusercontent.com/79904490/234327519-0c9da374-c6e1-454a-86ac-f2251c7c1b6c.png)
+![Diseño sin título](https://user-images.githubusercontent.com/130590784/234327238-b92ac293-e2c0-4be0-bde9-151562acf14e.png)
 
 
-**Banner**: 
+**Slogan**:
 
-![Black and Gold Modern Occult Halloween Facebook Cover Greetings](https://user-images.githubusercontent.com/79904490/234327623-8a9a5b2d-457d-458c-8b79-06095e2a86bd.png)
+![6 de bastos frase](https://user-images.githubusercontent.com/130590784/234329953-f85090a6-70c8-42e3-82d8-92dedde97437.png)
 
 
-**Hashtag** #6deBastos
+**Hashtag**  #aventura #miedo #suspense #fantasía
 
 **Licencia**    (usar una creative commons: revisar en https://creativecommons.org/licenses/?lang=es_ES) 
 
@@ -62,21 +55,24 @@ Metodología de desarrollo: Diseño de contenidos digitales mediante estrategia 
 
 Actividades realizadas mediante Trello https://trello.com/b/3YjvDccp/proyectomultimedia
 
-Actividades realizadas mediante Milanote https://app.milanote.com/1PF01C1pHNUUbc/6-6-de-bastos?p=fVCzKgTw2WW 
+**Investigación de campo**   Desk research propuestas inspiradoras para el proyecto) 
 
-Personajes principales de la historia: 
+Para crear nuestro relato, nos hemos inspirado en algunas obras como son: 
 
-La Bruja: 
+* Libros de temática fantástica
 
-![Bruja 2](https://user-images.githubusercontent.com/79904490/234329318-804dbce9-1285-40d5-8ea1-1e0781c9c935.png)
-
-
-Miriam: 
-![MMiriam](https://user-images.githubusercontent.com/79904490/234329239-43120adb-f85e-409c-952d-cff47d5f6189.png)
+![6 de bastos](https://user-images.githubusercontent.com/130590784/234328122-210cdd4a-a059-4ece-afbb-8912f1ae17be.png)
 
 
-Billy: 
-![Billy](https://user-images.githubusercontent.com/79904490/234329183-937cd369-1e07-4e5b-922e-34999961e614.png)
+* Series de televisión 
+![6 de bastos (1)](https://user-images.githubusercontent.com/130590784/234328206-85aa4cbf-7a30-452d-b6f3-1c5767fae43a.png)
+
+
+* Videojuegos
+En el caso de "The Witcher", nos hemos inspirado en la estética del universo y en la figura de Yennefer para crear a Miriam. Por otro lado "The Red String Club" ha servido de inspiración para el sistema de ramificación conversacional y en la importancia de las elecciones. 
+
+![6 de bastos (2)](https://user-images.githubusercontent.com/130590784/234328273-f3a918ca-0ae6-461d-8b0b-0e7a05551d26.png)
+
 
 
 **Necesidad/oportunidad** 
@@ -85,24 +81,22 @@ Esta historia resulta necesaria porque ayuda a reflexionar sobre la toma de deci
 
 También, esta historia podría ser utilizada como una metáfora para explorar temas que siguen teniendo gran importancia en la actualidad, y más aún en este máster, como el valor de la colaboración, la toma de decisiones éticas y el riesgo de la manipulación.
 
-**Motivación de la propuesta** .... 
+**Motivación de la propuesta** 
 
 Gracias al auge del género fantástico, 6 de bastos se presenta como una fresca propuesta para explorar nuevas formas de contar historias y crear una experiencia de lectura que se aleje de lo tradicional, rompiendo con los esquemas típicos de la narrativa lineal a través de elementos como la interactividad, la participación del lector o la inmersión
 
-
-**Personas/Usuarios**  (...¿en quién piensas que puede ser útil ? ¿cual es tu publico objetivo?) 
+**Personas/Usuarios**  
 
 Al contar con una trama sencilla pero intrigante, 6 de bastos es una historia que podría disfrutar una amplia gama de usuarios, tanto jóvenes como adultos, sobre todo aquellos interesados en las historias de magia y brujería que adoren un buen giro de trama y poder controlar el destino del protagonista. 
-
 
 **Estilo de narración**  (...indica como se hace uso de los medios)  
 
 En primer lugar, contamos con un videojuego conversacional, un tráiler interactivo y un cómic contando el origen de la Bruja y que, dependiendo de su éxito, podríamos hacer otro sobre el personaje de Miriam. 
 
 El videojuego lo hemos creado en Arcweave y es, en palabra de Henry Jenkins, nuestra nave nodriza. De aquí partirán el resto de los productos propuestos. En el videojuego, te pondrás en la piel de Billy y en su trágica aventura con la Bruja y Miriam para recuperar su objeto perdido. 
-
 El tráiler, realizado en Protopie, constituye la primera toma de contacto con el universo de 6 de bastos, ya que te propone una experiencia inmersiva e interactiva en la que el protagonista eres tú y tendrás que descubrir a través de la selección de un carta, qué te depara el destino. 
 Por último, el cómic supone una extensión del universo de 6 de bastos y que cuenta el origen de la Bruja y por qué es tan malvada.
+
 
 ### Etapa 2: Prototipar / productos 
 
@@ -110,27 +104,27 @@ Por último, el cómic supone una extensión del universo de 6 de bastos y que c
 
 Para la imagen visual y en sí el diseño, hemos utilizado Canva. En el caso del diseño de interfaz 
 
-Portada:
-
-Redes sociales:
+* redes sociales 
 
 Tenemos pensado añadir redes sociales tales como Instagram o Twitter. En la primera, colgaríamos información del proyecto tales como novedades, curiosidades, el proceso creativo detrás del proyecto e incluso pequeños minijuegos ubicados dentro de las historias de la red social para mantener el enganche de los usuarios. 
 
-🔵 Instagram:
+![Feed de Instagram estilo neutro moderno colores beige blancos](https://user-images.githubusercontent.com/130590784/234340650-25ffbaef-6121-489b-bfee-a560788fb13c.png)
 
-![Feed de Instagram estilo neutro moderno colores beige blancos](https://user-images.githubusercontent.com/79904490/234328028-8cfef9a8-0d51-4e57-b8c6-85db096ff86e.png)
-
-🟤 Banner 
-
-![Black and Gold Modern Occult Halloween Facebook Cover Greetings](https://user-images.githubusercontent.com/79904490/234327623-8a9a5b2d-457d-458c-8b79-06095e2a86bd.png)
 
 Por otro lado, en el caso de Twitter, sería un buen medio para promover la inmersión, contando con tweets semanales donde los usuarios puedan preguntarle a la Bruja y que esta le haga escoger entre distintas cartas. Cada tweet será el significado de la carta escogida. El tono será más bien sarcástico y humorístico para acercarnos a un público joven. 
 
-🟡 Twitter
+![Feed de Instagram estilo neutro moderno colores beige blancos (1)](https://user-images.githubusercontent.com/130590784/234347913-ffd204f4-2c0c-4959-90f6-675abab12cf3.png)
 
-![Feed de Instagram estilo neutro moderno colores beige blancos (1)](https://user-images.githubusercontent.com/79904490/234354534-4d8311fc-deb2-4cbf-a7a6-3f0a8c1ed3da.png)
 
-* ...
+* Banner
+
+![Black and Gold Modern Occult Halloween Facebook Cover Greetings](https://user-images.githubusercontent.com/130590784/234348224-b65e96c1-16b2-47b1-bfc5-f3fbd7cad47d.png)
+
+
+* Publicidad
+
+![publi 6 de bastos](https://user-images.githubusercontent.com/130590784/234352432-148a9c0d-8a0b-4fff-884d-9520c5c31c2a.png)
+
 
 ### Etapa 3: Técnicas de evaluación utilizadas
 
@@ -146,7 +140,7 @@ Por otro lado, en el caso de Twitter, sería un buen medio para promover la inme
 ### Conclusiones y trabajo futuro
 
 
-Grado de consecución del proyecto 
+* Grado de consecución del proyecto 
 Problemas identificados:
 En cuanto a los problemas encontrados a la hora de realizar el proyecto, uno de los principales contratiempos que hemos tenido ha sido definir bien el uso y papel que 
 tiene cada una de las herramientas que hemos utilizado, ya que el comienzo de la historia del personaje, y del proyecto en sí, se ha realizado a través de la 
@@ -197,15 +191,3 @@ Referencias y recursos:
 * (Artículos ..  )
 * (Productos utilizados ) 
 * (Recursos tipo Imágenes, videos , etc.) 
-
-
-
-
-
-
-
-
-
-
-
-
