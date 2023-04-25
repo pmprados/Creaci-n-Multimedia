@@ -14,14 +14,18 @@ Univesidad de Granada
 **Autor(es)** 
 
 👑 Andrea Amaya
+
 🪙 Rubén Casamitjana
+
 🗡️ Pablo Medina 
+
 🐎 Fátima Reyes
 
 **Resumen** : 
-"6 de Bastos" cuenta la historia de Billy, un joven que busca un objeto perdido y decide pedir ayuda a una anciana bruja. La bruja le ofrece ayuda a cambio de un favor 
-en el futuro y le dice que necesita encontrar a Miriam para ayudarlo a encontrarlo. Miriam lo lleva al bosque para encontrar una hierba especial, que lo conducirá a 
-escapar de las garras de la bruja antes de que sea demasiado tarde
+
+"6 de Bastos" cuenta la historia de Billy, un joven que busca un objeto perdido y decide pedir ayuda a una anciana bruja. La bruja le ofrece ayuda a
+cambio de un favor en el futuro y le dice que necesita encontrar a Miriam para ayudarlo a encontrarlo. Miriam lo lleva al bosque para encontrar una 
+hierba especial, que lo conducirá a escapar de las garras de la bruja antes de que sea demasiado tarde
 
 **Logotipo** : 
 
@@ -62,18 +66,16 @@ Actividades realizadas mediante Milanote https://app.milanote.com/1PF01C1pHNUUbc
 
 Personajes principales de la historia: 
 
-La Bruja:
+La Bruja: 
 
 ![Bruja 2](https://user-images.githubusercontent.com/79904490/234329318-804dbce9-1285-40d5-8ea1-1e0781c9c935.png)
 
 
-Miriam:
-
+Miriam: 
 ![MMiriam](https://user-images.githubusercontent.com/79904490/234329239-43120adb-f85e-409c-952d-cff47d5f6189.png)
 
 
-Billy:
-
+Billy: 
 ![Billy](https://user-images.githubusercontent.com/79904490/234329183-937cd369-1e07-4e5b-922e-34999961e614.png)
 
 
