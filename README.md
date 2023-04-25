@@ -81,26 +81,40 @@ Billy:
 
 **Necesidad/oportunidad** 
 
-**Motivación de la propuesta** .... ¿ por qué consideras interesante ? 
+Esta historia resulta necesaria porque ayuda a reflexionar sobre la toma de decisiones y las consecuencias de nuestras acciones. En la historia, Billy debe elegir entre confiar en Miriam o escapar, y su elección determina el curso de la historia. Esto refleja cómo nuestras decisiones en la vida real también tienen repercusión tanto en nosotros como en los que nos rodean, y que debemos ser responsables de nuestras elecciones.
+
+También, esta historia podría ser utilizada como una metáfora para explorar temas que siguen teniendo gran importancia en la actualidad, y más aún en este máster, como el valor de la colaboración, la toma de decisiones éticas y el riesgo de la manipulación.
+
+**Motivación de la propuesta** .... 
+
+Gracias al auge del género fantástico, 6 de bastos se presenta como una fresca propuesta para explorar nuevas formas de contar historias y crear una experiencia de lectura que se aleje de lo tradicional, rompiendo con los esquemas típicos de la narrativa lineal a través de elementos como la interactividad, la participación del lector o la inmersión
+
 
 **Personas/Usuarios**  (...¿en quién piensas que puede ser útil ? ¿cual es tu publico objetivo?) 
 
+Al contar con una trama sencilla pero intrigante, 6 de bastos es una historia que podría disfrutar una amplia gama de usuarios, tanto jóvenes como adultos, sobre todo aquellos interesados en las historias de magia y brujería que adoren un buen giro de trama y poder controlar el destino del protagonista. 
+
+
 **Estilo de narración**  (...indica como se hace uso de los medios)  
 
-(ejemplos/alternativas) 
-* documental interactivo 
-* videojuego 
-* ... 
+En primer lugar, contamos con un videojuego conversacional, un tráiler interactivo y un cómic contando el origen de la Bruja y que, dependiendo de su éxito, podríamos hacer otro sobre el personaje de Miriam. 
 
+El videojuego lo hemos creado en Arcweave y es, en palabra de Henry Jenkins, nuestra nave nodriza. De aquí partirán el resto de los productos propuestos. En el videojuego, te pondrás en la piel de Billy y en su trágica aventura con la Bruja y Miriam para recuperar su objeto perdido. 
 
+El tráiler, realizado en Protopie, constituye la primera toma de contacto con el universo de 6 de bastos, ya que te propone una experiencia inmersiva e interactiva en la que el protagonista eres tú y tendrás que descubrir a través de la selección de un carta, qué te depara el destino. 
+Por último, el cómic supone una extensión del universo de 6 de bastos y que cuenta el origen de la Bruja y por qué es tan malvada.
 
 ### Etapa 2: Prototipar / productos 
 
 * Imagen visual (Portada / Diseño de Interfaz) y herramienta usada 
 
+Para la imagen visual y en sí el diseño, hemos utilizado Canva. En el caso del diseño de interfaz 
+
 Portada:
 
 Redes sociales:
+
+Tenemos pensado añadir redes sociales tales como Instagram o Twitter. En la primera, colgaríamos información del proyecto tales como novedades, curiosidades, el proceso creativo detrás del proyecto e incluso pequeños minijuegos ubicados dentro de las historias de la red social para mantener el enganche de los usuarios. 
 
 🔵 Instagram:
 
@@ -109,6 +123,15 @@ Redes sociales:
 🟤 Banner 
 
 ![Black and Gold Modern Occult Halloween Facebook Cover Greetings](https://user-images.githubusercontent.com/79904490/234327623-8a9a5b2d-457d-458c-8b79-06095e2a86bd.png)
+
+Por otro lado, en el caso de Twitter, sería un buen medio para promover la inmersión, contando con tweets semanales donde los usuarios puedan preguntarle a la Bruja y que esta le haga escoger entre distintas cartas. Cada tweet será el significado de la carta escogida. El tono será más bien sarcástico y humorístico para acercarnos a un público joven. 
+
+🟡 Twitter
+
+![Feed de Instagram estilo neutro moderno colores beige blancos (1)](https://user-images.githubusercontent.com/79904490/234354534-4d8311fc-deb2-4cbf-a7a6-3f0a8c1ed3da.png)
+
+🟢 Publicidad 
+
 
 * ...
 
