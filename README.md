@@ -47,9 +47,6 @@ escapar de las garras de la bruja antes de que sea demasiado tarde
 
 🟪 Cómic: 
 
-🟦 Instagram:
-
-![Feed de Instagram estilo neutro moderno colores beige blancos](https://user-images.githubusercontent.com/79904490/234328028-8cfef9a8-0d51-4e57-b8c6-85db096ff86e.png)
 
 --- 
 
@@ -63,11 +60,21 @@ Actividades realizadas mediante Trello https://trello.com/b/3YjvDccp/proyectomul
 
 Actividades realizadas mediante Milanote https://app.milanote.com/1PF01C1pHNUUbc/6-6-de-bastos?p=fVCzKgTw2WW 
 
-**Investigación de campo**   Desk research propuestas inspiradoras para el proyecto) 
+Personajes principales de la historia: 
 
-* @LadyDistopia (link) ...¿ por qué ?
-* (...)
-* 
+La Bruja:
+
+![Bruja 2](https://user-images.githubusercontent.com/79904490/234329318-804dbce9-1285-40d5-8ea1-1e0781c9c935.png)
+
+
+Miriam:
+
+![MMiriam](https://user-images.githubusercontent.com/79904490/234329239-43120adb-f85e-409c-952d-cff47d5f6189.png)
+
+
+Billy:
+
+![Billy](https://user-images.githubusercontent.com/79904490/234329183-937cd369-1e07-4e5b-922e-34999961e614.png)
 
 
 **Necesidad/oportunidad** 
@@ -87,13 +94,19 @@ Actividades realizadas mediante Milanote https://app.milanote.com/1PF01C1pHNUUbc
 
 ### Etapa 2: Prototipar / productos 
 
-(Productos que has desarrollado y como se plantea la integración de los diferentes medios, pon los que uses) 
-
 * Imagen visual (Portada / Diseño de Interfaz) y herramienta usada 
 
-* redes sociales (...) 
+Portada:
 
-* publicidad: banner (... ) 
+Redes sociales:
+
+🔵 Instagram:
+
+![Feed de Instagram estilo neutro moderno colores beige blancos](https://user-images.githubusercontent.com/79904490/234328028-8cfef9a8-0d51-4e57-b8c6-85db096ff86e.png)
+
+🟤 Banner 
+
+![Black and Gold Modern Occult Halloween Facebook Cover Greetings](https://user-images.githubusercontent.com/79904490/234327623-8a9a5b2d-457d-458c-8b79-06095e2a86bd.png)
 
 * ...
 
