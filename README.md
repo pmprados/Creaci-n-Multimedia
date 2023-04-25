@@ -19,7 +19,7 @@ Univesidad de Granada
 🐎 Fátima Reyes
 
 **Resumen** : 
-"La Bruja" cuenta la historia de Billy, un joven que busca un objeto perdido y decide pedir ayuda a una anciana bruja. La bruja le ofrece ayuda a cambio de un favor 
+"6 de Bastos" cuenta la historia de Billy, un joven que busca un objeto perdido y decide pedir ayuda a una anciana bruja. La bruja le ofrece ayuda a cambio de un favor 
 en el futuro y le dice que necesita encontrar a Miriam para ayudarlo a encontrarlo. Miriam lo lleva al bosque para encontrar una hierba especial, que lo conducirá a 
 escapar de las garras de la bruja antes de que sea demasiado tarde
 
