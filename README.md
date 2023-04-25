@@ -128,14 +128,7 @@ Por otro lado, en el caso de Twitter, sería un buen medio para promover la inme
 
 ### Etapa 3: Técnicas de evaluación utilizadas
 
-(Estrategia que plantearías para evaluar tu propuesta, medidodes e indicadores de éxito, elige / propone) 
-
-* Test con usuarios (...) 
-* ... 
-
-
-
-
+A la hora de plantear una evaluación del proyecto, puede ser interesante el uso de las estadísticas de la plataforma o web en la que el proyecto esté disponible. La idea es saber cuántas personas están entrando; cómo se comportan mientras y después de usar la aplicación; para poder extraer unos resultados estadísticos, por ejemplo, del tipo de carta del tarot que más sale escogida en el Protopie.
 
 ### Conclusiones y trabajo futuro
 
@@ -166,15 +159,7 @@ herramientas es tan amplia que es necesario delimitar bien la finalidad de estos
 
 Referencias y recursos: 
 
-* Artículos ..  
-* Productos utilizados  
-* Propuestas de me
-
-(...)
-
-
-
-
+La mayoría de recursos utilizados a lo largo de este proyecto han sido extraido de páginas de diseño como Canvas, o bancos de imágenes, como son el caso de Pexels o Pixabay. 
 
 
 ----
