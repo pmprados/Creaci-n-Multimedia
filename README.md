@@ -20,9 +20,9 @@ Univesidad de Granada
 
 **Resumen** : Una bruja que se dedica a maldecir gente.
 
-**logotipo** :  https://www.canva.com/design/DAFg8K1Bq_Q/jTah5Bqyz8DAjv0gppfu2Q/edit?analyticsCorrelationId=dbb213fb-74a6-4a40-be66-17ac2e0ab43b
+**Logotipo** :  https://www.canva.com/design/DAFg8K1Bq_Q/jTah5Bqyz8DAjv0gppfu2Q/edit?analyticsCorrelationId=dbb213fb-74a6-4a40-be66-17ac2e0ab43b
 
-**Slogan** (frase motivadora/inspiradora): ________
+**Slogan**: https://www.canva.com/design/DAFg8OMXQCM/Z9z2RMyBvZkRnY0RFC6dvw/edit?analyticsCorrelationId=b6b96e3e-bda7-4674-b78a-fcefc3c77a96
 
 **Hashtag**  ___
 
