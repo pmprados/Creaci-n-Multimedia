@@ -18,7 +18,10 @@ Univesidad de Granada
 🗡️ Pablo Medina 
 🐎 Fátima Reyes
 
-**Resumen** : Una bruja que se dedica a maldecir gente.
+**Resumen** : 
+"La Bruja" cuenta la historia de Billy, un joven que busca un objeto perdido y decide pedir ayuda a una anciana bruja. La bruja le ofrece ayuda a cambio de un favor 
+en el futuro y le dice que necesita encontrar a Miriam para ayudarlo a encontrarlo. Miriam lo lleva al bosque para encontrar una hierba especial, que lo conducirá a 
+escapar de las garras de la bruja antes de que sea demasiado tarde
 
 **Logotipo** :  https://www.canva.com/design/DAFg8K1Bq_Q/jTah5Bqyz8DAjv0gppfu2Q/edit?analyticsCorrelationId=dbb213fb-74a6-4a40-be66-17ac2e0ab43b
 
