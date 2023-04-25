@@ -161,7 +161,7 @@ Referencias y recursos:
 
 La mayoría de recursos utilizados a lo largo de este proyecto han sido extraido de páginas de diseño como Canvas, o bancos de imágenes, como son el caso de Pexels o Pixabay. 
 
-
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Licencia de Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />Este obra está bajo una <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">licencia de Creative Commons Reconocimiento-NoComercial-CompartirIgual 4.0 Internacional</a>.
 ----
 
 **Referencias y recursos utilizados** :
