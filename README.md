@@ -101,9 +101,27 @@ Actividades realizadas mediante Trello https://trello.com/b/3YjvDccp/proyectomul
 
 
 * Grado de consecución del proyecto 
-* Problemas identificados  (técnicos / sobre la idea inicial / planificacion… ) 
-* Propuestas de mejora (por qué consideras que merece la pena continuar)
-* Posible interés del proyecto (¿ Quien podría  colaborar / involucrarse en el proyecto? ¿viable?)
+Problemas identificados:
+En cuanto a los problemas encontrados a la hora de realizar el proyecto, uno de los principales contratiempos que hemos tenido ha sido definir bien el uso y papel que 
+tiene cada una de las herramientas que hemos utilizado, ya que el comienzo de la historia del personaje, y del proyecto en sí, se ha realizado a través de la 
+elaboración del Protopie, por lo que hemos tenido que ir definiendo el resto de la historia según avanzaba la historia, teniendo que reorganizar el proyecto para poder 
+darle un sentido y una unidad coherente con cada formato y producto realizado.
+
+Propuesta de mejora:
+Al no conocer en profundidad todas las herramientas y programas que hemos utilizado, como los distintos lenguajes informáticos, hemos visto un poco limitadas las 
+posibilidades de crear contenido que nos permita ampliar la historia, teniendo que tener una visión más realista de nuestras propias capacidades, dejando de lado 
+aquellas ideas que se escapen de nuestras capacidades. 
+
+Posible interés del proyecto:
+Es un poco díficil ver la viabilidad que puede tener nuestro proyecto, ya que al ser un mundo ficticio creado para este proyecto en específico, es necesario terminar 
+de darle todo el formato, contexto, coherencia y ambientación necesaria para poder tener una historia que suscite un gran interés en el público, además de poder 
+conseguir la colaboración con la que poder levantar un mayor interés en la historia. Alguna manera de realizar alguna colaboración, podría ser a través de una pequeña 
+interpretación de rol en vivo, en el que los participantes puedan integrarse a un mayor nivel en la historia, conociendo desde dentro la historia de los distintos 
+protagonistas, en especial, el de la Bruja. 
+
+A su vez, se podría llegar a crear algún pequeño videojuego para dispostivos móviles, enfocado en distintos géneros, como puede ser el cuidado de plantas mágicas,
+recorrer pequeñas mazmorras o escenarios para recoger ingredientes para las pociones de la Bruja, etc. La posibilidad de ampliar la historia a través de estas
+herramientas es tan amplia que es necesario delimitar bien la finalidad de estos proyectos.
 
 
 Referencias y recursos: 
