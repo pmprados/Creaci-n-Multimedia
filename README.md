@@ -14,16 +14,13 @@ Univesidad de Granada
 **Autor(es)** 
 
 👑 Andrea Amaya
-
 🪙 Rubén Casamitjana
-
 🗡️ Pablo Medina 
-
 🐎 Fátima Reyes
 
 **Resumen** : Una bruja que se dedica a maldecir gente.
 
-**logotipo** :  ________
+**logotipo** :  https://www.canva.com/design/DAFg8K1Bq_Q/jTah5Bqyz8DAjv0gppfu2Q/edit?analyticsCorrelationId=dbb213fb-74a6-4a40-be66-17ac2e0ab43b
 
 **Slogan** (frase motivadora/inspiradora): ________
 
@@ -33,7 +30,13 @@ Univesidad de Granada
 
 **Fecha** : 2023
 
-**Medios** (donde se tiene presencia): 
+**Medios**:
+
+🟨 Arcweave: https://arcweave.com/app/project/rDEDPpMEW5/play 
+
+🟥 Protopie: https://cloud.protopie.io/p/18dd3cd350c3a8dc748cb12f?ui=true&scaleToFit=true&enableHotspotHints=true&cursorType=touch&mockup=true&bgColor=%23F5F5F5&playSpeed=1&playerAppPopup=true 
+
+🟪 Cómic: 
 
 
 *  :octocat: (github url) 
