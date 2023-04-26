@@ -52,6 +52,8 @@ Metodología de desarrollo: Diseño de contenidos digitales mediante estrategia 
 
 Actividades realizadas mediante Trello https://trello.com/b/3YjvDccp/proyectomultimedia
 
+Actividades realizadas mediante Milanote https://app.milanote.com/1PF01C1pHNUUbc/6-6-de-bastos?p=fVCzKgTw2WW
+
 **Investigación de campo**   Desk research propuestas inspiradoras para el proyecto) 
 
 Para crear nuestro relato, nos hemos inspirado en algunas obras como son: 
